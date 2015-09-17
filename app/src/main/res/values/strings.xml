@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CameraPuzzle</string>
+
+    <string name="hello_world">Take Picture</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Take Picture</string>
+    <string name="input">Type Here: </string>
+    <string name="button2">Enter Text</string>
+</resources>
